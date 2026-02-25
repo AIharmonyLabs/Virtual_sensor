@@ -1,4 +1,4 @@
-# Virtual Sensor POC (Aramco DCS) – Config-Driven Document Intelligence Pipeline
+# Virtual Sensor POC (docs) – Config-Driven Document Intelligence Pipeline
 
 This repository contains a proof-of-concept pipeline that:
 1) Stages Azure AI Document Intelligence (prebuilt-layout) output JSON into Azure SQL.
